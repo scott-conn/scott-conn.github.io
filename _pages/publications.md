@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/ocean3.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
-# <center> Here are my publications!</center> 
+# <center> Here are my publications:</center> 
 
 ## <b>Published</b>
 <p>  [1] <b>Conn, S.</b> &amp; Callies, J. (2026) Global Near-Inertial Wave Spectra Shaped by Mesoscale Eddies, <i>J. Phys. Oceanogr</i>. [<a href="https://journals.ametsoc.org/view/journals/phoc/56/3/JPO-D-25-0163.1.xml">journal</a>, <a href="https://arxiv.org/abs/2507.11651">arxiv</a>, <a href="https://raw.githubusercontent.com/scott-conn/scott-conn.github.io/master/files/conn2026global.pdf" download>pdf</a>
