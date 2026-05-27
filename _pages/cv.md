@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume/
 header:
-  overlay_image: /assets/images/ocean4.jpg
+  overlay_image: /assets/images/ocean3.jpg
   overlay_filter: 0.5
 ---
 
