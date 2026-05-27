@@ -12,6 +12,4 @@ header:
 
 <p>
   <a href="/files/CV_scott_conn.pdf" download="CV_scott_conn.pdf">Download CV</a>
-
-<iframe src="/files/CV_scott_conn.pdf" width="100%" height="900px"></iframe>
 </p>
