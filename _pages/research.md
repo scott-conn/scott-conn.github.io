@@ -10,11 +10,30 @@ mathjx: true
 ---
 # <center> About my research</center> 
 
+## Satellite Oceanography
+<p align="justify" style="text-align: justify;">
+In contrast to in-situ sampling, satellites allow us to take observations that cover the entire ocean. Observations of the sea-surface height from satellites revolutionised our understanding of the ocean circulation. Recently, NASA launched the Surface Water and Ocean Topography (SWOT) satellite which provides us with new, extremely high-resolution observations of the ocean's surface. With this, comes the potential to observe small-scale processes that are of significant interest to oceanographers. For example, the ocean absorbs significant amount of anthropogenic heat and carbon from the atmosphere. The processes which transport this heat and carbon to the deep ocean, where it can be stored for long periods of time, occur on extremely short spatial and temporal scales, making them challenging to observe.
+
+I am particularly interested in how we can use the novel observations from SWOT to try and infer the amount of vertical transport that is occuring at the small scale. Unfortunately, the vertical transport is not directly observable from SWOT, so I am developing theory-guided diagnostics that will allow us to infer the vertical transport from the small-scale sea surface height field that we can observe from SWOT. The goal is to better constrain the magntiude and geography of these small scale fluxes that shape Earth's climate.
+</p>
+
+<head>
+    <meta charset="utf-8">
+    <title>YBJ Simulation</title>
+</head>
+<body>    
+    <video width="640" height="360" controls>
+        <source src="https://raw.githubusercontent.com/scott-conn/scott-conn.github.io/master/assets/swot.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <p style="font-style: italic; font-size: 14px; color: #555;">This animation shows observations of sea surface height anomaly off the U.S. West Coast from SWOT. The swaths provide an unprecedented 2D view of ocean surface processes.</p>
+</body>
+
 ## Near-Inertial Wave Dynamics 
 <p align="justify" style="text-align: justify;">
 I am interested in the dynamics of near-inertial waves (NIWs) with a focus on understanding how their evolution is influenced by ocean turbulence. Near-inertial waves are ubiquitous in the ocean. They are forced by passing atmospheric storms and have a frequency close to the local Coriolis frequency. Despite NIWs often being regarded as a contaminant in observations, they exhibit rich dynamics that influence the climate system. Perhaps their most important role is in upper ocean mixing. Through a strong vertical shear, NIWs can induce mixing and deepening of the surface mixed layer.
 
-The dynamics of NIWs may be strongly modulated by the mesoscale eddy field. My thesis has focused on understanding this interaction in observations. I have used theoretical models of the NIW-mesoscale interactions to understand observations and quantify the role of various physical processes in the observed evolution of NIWs. I have also worked on understanding how the signature of NIW-mesoscale interactions may vary spatially in the ocean and how this may explain variations in the observed impact of the mesoscale eddy field on NIW evolution. The remainder of my thesis will try to extend theory of NIW-turbulence interactions to include submesoscale features as well as trying to observe this interaction in observations.
+The dynamics of NIWs may be strongly modulated by the mesoscale eddy field. My thesis has focused on understanding this interaction in observations. I have used theoretical models of the NIW-mesoscale interactions to understand observations and quantify the role of various physical processes in the observed evolution of NIWs. I have also worked on understanding how the signature of NIW-mesoscale interactions may vary spatially in the ocean and how this may explain variations in the observed impact of the mesoscale eddy field on NIW evolution. This theoretical understanding allowed me to develop observational signals that can be found in sparse observations of NIW from drifters. As a result, I have produced global maps showing the behavior of NIWs in different regions of the ocean. I have also worked on extending the theory of NIW-turbulence interactions to include submesoscale features.
 </p>
 
 <head>
