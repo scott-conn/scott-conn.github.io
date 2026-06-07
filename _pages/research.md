@@ -11,11 +11,11 @@ mathjx: true
 # <center> About my research</center> 
 
 ## Satellite Oceanography
-<p align="justify" style="text-align: justify; margin-bottom: 1em;">
+<p align="justify" style="text-align: justify;">
 In contrast to in-situ sampling, satellites allow us to take observations that cover the entire ocean. Observations of the sea-surface height from satellites revolutionised our understanding of the ocean circulation. Recently, NASA launched the Surface Water and Ocean Topography (SWOT) satellite which provides us with new, extremely high-resolution observations of the ocean's surface. With this, comes the potential to observe small-scale processes that are of significant interest to oceanographers. For example, the ocean absorbs significant amount of anthropogenic heat and carbon from the atmosphere. The processes which transport this heat and carbon to the deep ocean, where it can be stored for long periods of time, occur on extremely short spatial and temporal scales, making them challenging to observe.
 </p>
 
-<p align="justify" style="text-align: justify; margin-bottom: 1em;">
+<p align="justify" style="text-align: justify;">
 I am particularly interested in how we can use the novel observations from SWOT to try and infer the amount of vertical transport that is occuring at the small scale. Unfortunately, the vertical transport is not directly observable from SWOT, so I am developing theory-guided diagnostics that will allow us to infer the vertical transport from the small-scale sea surface height field that we can observe from SWOT. The goal is to better constrain the magntiude and geography of these small scale fluxes that shape Earth's climate.
 </p>
 
@@ -34,7 +34,9 @@ I am particularly interested in how we can use the novel observations from SWOT 
 ## Near-Inertial Wave Dynamics 
 <p align="justify" style="text-align: justify;">
 I am interested in the dynamics of near-inertial waves (NIWs) with a focus on understanding how their evolution is influenced by ocean turbulence. Near-inertial waves are ubiquitous in the ocean. They are forced by passing atmospheric storms and have a frequency close to the local Coriolis frequency. Despite NIWs often being regarded as a contaminant in observations, they exhibit rich dynamics that influence the climate system. Perhaps their most important role is in upper ocean mixing. Through a strong vertical shear, NIWs can induce mixing and deepening of the surface mixed layer.
+</p>
 
+<p align="justify" style="text-align: justify;">
 The dynamics of NIWs may be strongly modulated by the mesoscale eddy field. My thesis has focused on understanding this interaction in observations. I have used theoretical models of the NIW-mesoscale interactions to understand observations and quantify the role of various physical processes in the observed evolution of NIWs. I have also worked on understanding how the signature of NIW-mesoscale interactions may vary spatially in the ocean and how this may explain variations in the observed impact of the mesoscale eddy field on NIW evolution. This theoretical understanding allowed me to develop observational signals that can be found in sparse observations of NIW from drifters. As a result, I have produced global maps showing the behavior of NIWs in different regions of the ocean. I have also worked on extending the theory of NIW-turbulence interactions to include submesoscale features.
 </p>
 
@@ -53,7 +55,9 @@ The dynamics of NIWs may be strongly modulated by the mesoscale eddy field. My t
 ## Southern Ocean Dynamics
 <p align="justify" style="text-align: justify;">
 I also work on Southern Ocean dynamics with a focus on the Ross Sea. Bordering Antarctica in the Pacific sector, the Ross Sea is a fascinating region where problems in physical oceanography are strongly tied to problems in the dynamics of the atmosphere and cryosphere. Processes in the Ross Sea impact heat transfer to the Antarctic continental shelf with implications for ice melt. The Ross Sea also plays a role in the Southern Ocean's carbon cycle and in the meridional overturning circulation. In a warming climate, changes in the Ross Sea will both interact with and modulate changes in sea-ice, the Antarctic ice sheet and the local ecology. 
+</p>
 
+<p align="justify" style="text-align: justify;">
 My research aims to understand the physical mechanisms governing the variability of the Ross Gyre. The Ross Gyre is a cyclonic, basin-scale circulation pattern that forms in the Ross Sea. Varability in the size and strength of the gyre has been shown to modulate the magnitude and pathways of heat transport from the open Southern Ocean towards Antarctica. I have been using idealised channel models of the Ross Sea to attempt to understand the physical drivers of variability in the Ross Gyre. These simulations have shown an important role for internal ocean variability and a connection between gyre variability and the Antarctic Circumpolar Current. By better understanding the mechanisms of gyre variability, we can better understand how the gyre may respond under climate change.
 </p>
 
